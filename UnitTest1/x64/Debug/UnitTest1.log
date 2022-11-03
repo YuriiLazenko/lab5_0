@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\yuril\OneDrive\Desktop\Алгоритмізація і програмування\Лабораторна 5.2\lab5.2\UnitTest1\UnitTest1.cpp(16,1): error C2664: 'void S(const double,const double,int &,double &)': cannot convert argument 3 from 'int' to 'int &'
+C:\Users\yuril\OneDrive\Desktop\Алгоритмізація і програмування\Лабораторна 5.2\lab5.2\lab5.2\lab5.2.cpp(38,6): message : see declaration of 'S'
+C:\Users\yuril\OneDrive\Desktop\Алгоритмізація і програмування\Лабораторна 5.2\lab5.2\UnitTest1\UnitTest1.cpp(18,3): error C2143: syntax error: missing ';' before '}'
